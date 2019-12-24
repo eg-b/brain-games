@@ -1,0 +1,10 @@
+README
+setup.py
+brain_games/_init_.py
+brain_games/scripts/_init_.py
+brain_games/scripts/brain_games.py
+eg_b_brain_games.egg-info/PKG-INFO
+eg_b_brain_games.egg-info/SOURCES.txt
+eg_b_brain_games.egg-info/dependency_links.txt
+eg_b_brain_games.egg-info/entry_points.txt
+eg_b_brain_games.egg-info/top_level.txt
