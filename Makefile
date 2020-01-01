@@ -1,9 +1,13 @@
 # Makefile
-install:
-	poetry install 
+all: install
 
 configure:
-	@poetry install
+	poetry install
 
 lint:
 	poetry run flake8 brain_games
+
+selfcheck:
+	poetry check
+
+check: selfcheck test lint
