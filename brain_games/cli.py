@@ -3,5 +3,6 @@ import prompt
 
 
 def run():
-    name = prompt.string('May I have your name? ')
-    print('Hello, {}!'.format(name))
+    user_name = prompt.string('May I have your name? ')
+    print('Hello, {}! \n'.format(user_name))
+    return user_name
