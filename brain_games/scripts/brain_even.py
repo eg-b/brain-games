@@ -7,5 +7,6 @@ def main():
     print('Answer "yes" if number even otherwise answer "no". \n')
     game()
 
+
 if __name__ == '__main__':
     main()

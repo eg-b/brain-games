@@ -1,4 +1,3 @@
-from brain_games.scripts.brain_games import main
 import random
 import prompt
 import brain_games.cli
@@ -25,13 +24,13 @@ def is_even(num):
 
 def check_answer(user_answer, correct_answer):
     if user_answer == correct_answer:
-        return True      
+        return True
     else:
-        return False 
+        return False
 
 
 def game():
-    user_name = brain_games.cli.run()
+    name = brain_games.cli.run()
     answ_counter = 0
     for i in range(3):
         num = generate_question()
@@ -39,10 +38,14 @@ def game():
         correct_answer = is_even(num)
         check_answer(user_answer, correct_answer)
         if check_answer(user_answer, correct_answer) is not True:
-            print("'{}' is wrong answer ;(. Correct answer was '{}'. Let's try again, {}!".format(user_answer, correct_answer, user_name))
+            print(
+                "'{}' is wrong answer ;(. Correct answer was '{}'.\n"
+                "Let's try again, {}!"
+                .format(user_answer, correct_answer, name)
+            )
             break
-        else: 
+        else:
             print('Correct!')
             answ_counter += 1
     if answ_counter == 3:
-        print('Congratulations, {}!'.format(user_name))
+        print('Congratulations, {}!'.format(name))
