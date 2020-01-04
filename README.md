@@ -5,3 +5,5 @@
 [![Build Status](https://travis-ci.org/eg-b/python-project-lvl1.svg?branch=master)](https://travis-ci.org/eg-b/python-project-lvl1)
 
 [![asciicast](https://asciinema.org/a/NbdHI1E7acP6jKLZK1dIKEuLM.svg)](https://asciinema.org/a/NbdHI1E7acP6jKLZK1dIKEuLM)
+
+<script id="asciicast-NbdHI1E7acP6jKLZK1dIKEuLM" src="https://asciinema.org/a/NbdHI1E7acP6jKLZK1dIKEuLM.js" async></script>
