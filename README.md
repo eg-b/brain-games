@@ -6,4 +6,3 @@
 
 [![asciicast](https://asciinema.org/a/NbdHI1E7acP6jKLZK1dIKEuLM.svg)](https://asciinema.org/a/NbdHI1E7acP6jKLZK1dIKEuLM)
 
-<script id="asciicast-NbdHI1E7acP6jKLZK1dIKEuLM" src="https://asciinema.org/a/NbdHI1E7acP6jKLZK1dIKEuLM.js" async></script>
