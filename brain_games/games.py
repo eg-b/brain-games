@@ -36,7 +36,6 @@ def game():
         num = generate_question()
         user_answer = ask_question()
         correct_answer = is_even(num)
-        check_answer(user_answer, correct_answer)
         if check_answer(user_answer, correct_answer) is not True:
             print(
                 "'{}' is wrong answer ;(. Correct answer was '{}'.\n"
