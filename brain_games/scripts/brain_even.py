@@ -1,11 +1,9 @@
 #!/home/eg/python_project
-from brain_games.games import game
+from brain_games.games import even_game
 
 
 def main():
-    print("Welcome to the Brain Games")
-    print('Answer "yes" if number even otherwise answer "no". \n')
-    game()
+    even_game.even_game()
 
 
 if __name__ == '__main__':
