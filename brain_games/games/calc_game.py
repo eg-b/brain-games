@@ -1,6 +1,5 @@
 import random
 import prompt
-import brain_games.cli
 
 
 def greetings():

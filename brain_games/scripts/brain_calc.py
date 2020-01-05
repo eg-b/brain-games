@@ -4,8 +4,8 @@ from brain_games.game_engine import run_game
 
 
 def main():
-    #calc_game.calc_game()
     run_game(calc_game)
+
 
 if __name__ == '__main__':
     main()

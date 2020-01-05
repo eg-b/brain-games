@@ -1,6 +1,7 @@
 import brain_games.games.even_game
 import brain_games.games.calc_game
 
+
 def run_game(game_name):
     game_name.greetings()
     name = brain_games.cli.run()

@@ -1,6 +1,5 @@
 import random
 import prompt
-import brain_games.cli
 
 
 def greetings():
@@ -32,4 +31,3 @@ def check_answer(user_answer, solution):
         return True
     else:
         return False
- 
