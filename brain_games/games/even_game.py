@@ -18,8 +18,8 @@ def ask_question():
     return user_answer
 
 
-def get_solution(num):
-    if num % 2 == 0:
+def get_solution(challenge):
+    if challenge % 2 == 0:
         solution = 'yes'
     else:
         solution = 'no'
