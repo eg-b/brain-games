@@ -1,11 +1,12 @@
 import brain_games.games.even_game
 import brain_games.games.calc_game
+import brain_games.games.gcd_game
 import brain_games.cli
 
 
 def run_game(game_name):
     game_name.greetings()
-    name = brain_games.cli.run()
+    user_name = brain_games.cli.run()
     answ_counter = 0
     for i in range(3):
         challenge = game_name.get_challenge()
@@ -15,11 +16,11 @@ def run_game(game_name):
             print(
                 "'{}' is wrong answer ;(. Correct answer was '{}'.\n"
                 "Let's try again, {}!"
-                .format(user_answer, solution, name)
+                .format(user_answer, solution, user_name)
             )
             break
         else:
             print('Correct!')
             answ_counter += 1
     if answ_counter == 3:
-        print('Congratulations, {}!'.format(name))
+        print('Congratulations, {}!'.format(user_name))
