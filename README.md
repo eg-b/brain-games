@@ -4,12 +4,19 @@
 
 [![Build Status](https://travis-ci.org/eg-b/python-project-lvl1.svg?branch=master)](https://travis-ci.org/eg-b/python-project-lvl1)
 
+package install
+
+[![asciicast](https://asciinema.org/a/WwqRkhZTaAm2MfhYe6fBOPsZd.svg)](https://asciinema.org/a/WwqRkhZTaAm2MfhYe6fBOPsZd)
+
 even-game
-[![asciicast](https://asciinema.org/a/NbdHI1E7acP6jKLZK1dIKEuLM.svg)](https://asciinema.org/a/NbdHI1E7acP6jKLZK1dIKEuLM)
+
+[![asciicast](https://asciinema.org/a/1uGHpC24vF7DzdccOkcW9f0Zg.svg)](https://asciinema.org/a/1uGHpC24vF7DzdccOkcW9f0Zg)
 
 calc-game
-[![asciicast](https://asciinema.org/a/YRC6eZpW1G7kRMd5kLo1Zz3rh.svg)](https://asciinema.org/a/YRC6eZpW1G7kRMd5kLo1Zz3rh)
+
+[![asciicast](https://asciinema.org/a/64lgPdW2Q6vIUJ3PhZLcJeWsB.svg)](https://asciinema.org/a/64lgPdW2Q6vIUJ3PhZLcJeWsB)
 
 gcd-game
-[![asciicast](https://asciinema.org/a/Y6av8YTzEpRp15dmy44reWJ2P.svg)](https://asciinema.org/a/Y6av8YTzEpRp15dmy44reWJ2P)
+
+[![asciicast](https://asciinema.org/a/KOKVTFfg5HKjuoioBgUiJI5it.svg)](https://asciinema.org/a/KOKVTFfg5HKjuoioBgUiJI5it)
 
