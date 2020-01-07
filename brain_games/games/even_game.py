@@ -9,11 +9,14 @@ def greetings():
 
 def get_challenge():
     challenge = random.randint(1, 100)
-    print('Question: {}'.format(challenge))
     return challenge
 
 
-def ask_question():
+def print_question(challenge):
+    print('Question: {}'.format(challenge))
+
+
+def request_answer():
     user_answer = prompt.string('Your answer: ')
     return user_answer
 

@@ -10,11 +10,14 @@ def greetings():
 def get_challenge():
     num1, num2 = random.randint(1, 100), random.randint(1, 100)
     challenge = (num1, num2)
-    print('Question: {}'.format(str(challenge)))
     return challenge
 
 
-def ask_question():
+def print_question(challenge):
+    print('Question: {}'.format(str(challenge)))
+
+
+def request_answer():
     user_answer = prompt.string('Your answer: ')
     return user_answer
 

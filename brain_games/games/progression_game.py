@@ -17,13 +17,16 @@ def get_challenge():
     progression.pop(hidden_number)
     progression.insert(hidden_number, '..')
     challenge = (hidden_number, progression, step)
-    shown_progression = str(progression).replace(',', ' ')
-    print('Question: {}'.format(shown_progression[1:-1].replace("'..'", ".."))) 
-    # remove "[]", and '' for ..
     return challenge
 
 
-def ask_question():
+def print_question(challenge):
+    question = challenge[1]
+    question = str(question).replace(',', ' ')
+    print('Question: {}'.format(question[1:-1].replace("'..'", "..")))
+
+
+def request_answer():
     user_answer = prompt.string('Your answer: ')
     return user_answer
 
