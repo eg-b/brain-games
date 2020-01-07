@@ -10,7 +10,6 @@ packages = [
 [[tool.poetry.source]]
 name= "testpypi"
 url= "https://test.pypi.org/legacy/"
-default = true
 
 [tool.poetry.dependencies]
 python = "^3.6"
