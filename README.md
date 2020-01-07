@@ -24,3 +24,7 @@ progression-game
 
 [![asciicast](https://asciinema.org/a/3u4pNlCmq5TgoSBSMA0aiCGIY.svg)](https://asciinema.org/a/3u4pNlCmq5TgoSBSMA0aiCGIY)
 
+
+prime-game
+
+[![asciicast](https://asciinema.org/a/f41boDnIOWDdJKG8SUBPnjg0K.svg)](https://asciinema.org/a/f41boDnIOWDdJKG8SUBPnjg0K)
