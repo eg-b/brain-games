@@ -14,7 +14,8 @@ def get_challenge():
 
 
 def print_question(challenge):
-    print('Question: {}'.format(str(challenge)))
+    num1, num2 = challenge
+    print('Question: {} {}'.format(str(num1), str(num2)))
 
 
 def request_answer():
