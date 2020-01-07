@@ -20,3 +20,7 @@ gcd-game
 
 [![asciicast](https://asciinema.org/a/KOKVTFfg5HKjuoioBgUiJI5it.svg)](https://asciinema.org/a/KOKVTFfg5HKjuoioBgUiJI5it)
 
+progression-game
+
+[![asciicast](https://asciinema.org/a/3u4pNlCmq5TgoSBSMA0aiCGIY.svg)](https://asciinema.org/a/3u4pNlCmq5TgoSBSMA0aiCGIY)
+
