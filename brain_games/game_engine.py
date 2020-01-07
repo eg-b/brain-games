@@ -11,7 +11,7 @@ def run_game(game_name):
     win_counter = 0
     for i in range(3):
         challenge = game_name.get_challenge()
-        question = game_name.print_question(challenge)
+        game_name.print_question(challenge)
         user_answer = game_name.request_answer()
         solution = game_name.get_solution(challenge)
         if game_name.check_answer(user_answer, solution) is not True:

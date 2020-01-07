@@ -45,7 +45,3 @@ def check_answer(user_answer, solution):
         return True
     else:
         return False
-
-
-get_solution((1, [80, '..', 84, 86, 88, 90, 92, 94, 96, 98], 2))
-get_solution((0, ['..', 82, 84, 86, 88, 90, 92, 94, 96, 98], 2))
