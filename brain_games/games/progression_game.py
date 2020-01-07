@@ -13,10 +13,10 @@ def get_challenge():
     progression = [start_point]
     for i in range(9):
         progression.append(progression[-1] + step)
-    hidden_number = (random.randint(0, 9))
-    progression.pop(hidden_number)
-    progression.insert(hidden_number, '..')
-    challenge = (hidden_number, progression, step)
+    hidden_number_index = (random.randint(0, 9))
+    progression.pop(hidden_number_index)
+    progression.insert(hidden_number_index, '..')
+    challenge = (hidden_number_index, progression, step)
     return challenge
 
 
@@ -32,8 +32,11 @@ def request_answer():
 
 
 def get_solution(challenge):
-    hidden_number, progression, step = challenge
-    solution = str(progression[0] + (hidden_number * step))
+    hidden_number_index, progression, step = challenge
+    if progression[0] == '..':
+        solution = str(progression[1] - step)
+    else:
+        solution = str((progression[0] + (hidden_number_index * step)))
     return solution
 
 
@@ -42,3 +45,7 @@ def check_answer(user_answer, solution):
         return True
     else:
         return False
+
+
+get_solution((1, [80, '..', 84, 86, 88, 90, 92, 94, 96, 98], 2))
+get_solution((0, ['..', 82, 84, 86, 88, 90, 92, 94, 96, 98], 2))
