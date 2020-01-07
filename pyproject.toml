@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "eg-b_brain_games"
-version = "0.1.0"
-description = ""
+version = "1.4.0"
+description = "5 brain games! pip install -i https://test.pypi.org/simple/ eg-b-brain-games"
 authors = ["eg-b"]
 packages = [
     { include = "brain_games" },
@@ -10,6 +10,7 @@ packages = [
 [[tool.poetry.source]]
 name= "testpypi"
 url= "https://test.pypi.org/legacy/"
+default = true
 
 [tool.poetry.dependencies]
 python = "^3.6"
