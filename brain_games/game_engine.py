@@ -1,7 +1,4 @@
-import brain_games.games.even_game
-import brain_games.games.calc_game
-import brain_games.games.gcd_game
-import brain_games.games.progression_game
+import brain_games.games
 import brain_games.cli
 
 
