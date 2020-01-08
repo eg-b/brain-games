@@ -22,7 +22,7 @@ gcd-game
 
 progression-game
 
-<script id="asciicast-bUSYLHPsWzRSE2bFNrvbjDzDz" src="https://asciinema.org/a/bUSYLHPsWzRSE2bFNrvbjDzDz.js" async></script>
+[![asciicast](https://asciinema.org/a/bUSYLHPsWzRSE2bFNrvbjDzDz.svg)](https://asciinema.org/a/bUSYLHPsWzRSE2bFNrvbjDzDz)
 
 
 prime-game
