@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "eg-b_brain_games"
-version = "1.4.3"
+version = "1.4.4"
 description = "5 brain games! To install use the command: 'pip install -i https://test.pypi.org/simple/ eg-b-brain-games'"
 authors = ["eg-b"]
 packages = [
