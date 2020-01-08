@@ -11,7 +11,7 @@ def run_game(game_name):
         game_name.print_question(challenge)
         user_answer = game_name.request_answer()
         solution = game_name.get_solution(challenge)
-        if game_name.check_answer(user_answer, solution) is not True:
+        if game_name.is_correct_answer(user_answer, solution) is not True:
             print(
                 "'{}' is wrong answer ;(. Correct answer was '{}'.\n"
                 "Let's try again, {}!"
