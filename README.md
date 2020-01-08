@@ -4,27 +4,27 @@
 
 [![Build Status](https://travis-ci.org/eg-b/python-project-lvl1.svg?branch=master)](https://travis-ci.org/eg-b/python-project-lvl1)
 
-package install
+installation
 
-[![asciicast](https://asciinema.org/a/WwqRkhZTaAm2MfhYe6fBOPsZd.svg)](https://asciinema.org/a/WwqRkhZTaAm2MfhYe6fBOPsZd)
+[![asciicast](https://asciinema.org/a/yn7YiE3od39O8wGhNZkWZeZow.svg)](https://asciinema.org/a/yn7YiE3od39O8wGhNZkWZeZow)
 
 even-game
 
-[![asciicast](https://asciinema.org/a/1uGHpC24vF7DzdccOkcW9f0Zg.svg)](https://asciinema.org/a/1uGHpC24vF7DzdccOkcW9f0Zg)
+[![asciicast](https://asciinema.org/a/wjOlCqBJGDIwFUqPy48W8QyG6.svg)](https://asciinema.org/a/wjOlCqBJGDIwFUqPy48W8QyG6)
 
 calc-game
 
-[![asciicast](https://asciinema.org/a/64lgPdW2Q6vIUJ3PhZLcJeWsB.svg)](https://asciinema.org/a/64lgPdW2Q6vIUJ3PhZLcJeWsB)
+[![asciicast](https://asciinema.org/a/9kwNPfEJaZ1FtW9ZynnubTtKV.svg)](https://asciinema.org/a/9kwNPfEJaZ1FtW9ZynnubTtKV)
 
 gcd-game
 
-[![asciicast](https://asciinema.org/a/KOKVTFfg5HKjuoioBgUiJI5it.svg)](https://asciinema.org/a/KOKVTFfg5HKjuoioBgUiJI5it)
+[![asciicast](https://asciinema.org/a/8uyilkkGF1Ywt2ZPR8VZZjmGt.svg)](https://asciinema.org/a/8uyilkkGF1Ywt2ZPR8VZZjmGt)
 
 progression-game
 
-[![asciicast](https://asciinema.org/a/3u4pNlCmq5TgoSBSMA0aiCGIY.svg)](https://asciinema.org/a/3u4pNlCmq5TgoSBSMA0aiCGIY)
+<script id="asciicast-bUSYLHPsWzRSE2bFNrvbjDzDz" src="https://asciinema.org/a/bUSYLHPsWzRSE2bFNrvbjDzDz.js" async></script>
 
 
 prime-game
 
-[![asciicast](https://asciinema.org/a/f41boDnIOWDdJKG8SUBPnjg0K.svg)](https://asciinema.org/a/f41boDnIOWDdJKG8SUBPnjg0K)
+[![asciicast](https://asciinema.org/a/tedJeka0NFM8c5k3OKLun64QZ.svg)](https://asciinema.org/a/tedJeka0NFM8c5k3OKLun64QZ)
