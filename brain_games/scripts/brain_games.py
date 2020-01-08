@@ -1,4 +1,4 @@
-#!/home/eg/python_project
+#!/usr/bin/env python3
 from brain_games.cli import run
 
 
