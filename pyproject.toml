@@ -12,8 +12,7 @@ classifiers = [
         'Environment :: Console',
         'Intended Audience :: End Users/Desktop',
         'Operating System :: POSIX',
-        'Programming Language :: Python',
-        'Topic :: Communications :: egbv.py@gmail.com',
+        'Programming Language :: Python'
     ]
      
 
