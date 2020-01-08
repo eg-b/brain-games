@@ -38,7 +38,7 @@ def get_solution(challenge):
         divisor = x
 
 
-def check_answer(user_answer, solution):
+def is_correct_answer(user_answer, solution):
     if user_answer == solution:
         return True
     else:
