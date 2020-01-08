@@ -1,11 +1,21 @@
 [tool.poetry]
 name = "eg-b_brain_games"
 version = "1.4.3"
-description = "5 brain games! pip install -i https://test.pypi.org/simple/ eg-b-brain-games"
+description = "5 brain games! To install use the command: 'pip install -i https://test.pypi.org/simple/ eg-b-brain-games'"
 authors = ["eg-b"]
 packages = [
     { include = "brain_games" },
   ]
+repository = "https://github.com/eg-b/python-project-lvl1.git"
+classifiers = [
+        'Development Status :: 4 - Beta',
+        'Environment :: Console',
+        'Intended Audience :: End Users/Desktop',
+        'Operating System :: POSIX',
+        'Programming Language :: Python',
+        'Topic :: Communications :: egbv.py@gmail.com',
+    ]
+     
 
 [[tool.poetry.source]]
 name= "testpypi"
