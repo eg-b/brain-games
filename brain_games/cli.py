@@ -1,4 +1,3 @@
-#!/home/eg/python_project
 import prompt
 
 
