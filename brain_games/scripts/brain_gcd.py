@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
-from brain_games.games import gcd_game
-from brain_games.game_engine import run_game
+from brain_games import games, game_engine
 
 
 def main():
-    run_game(gcd_game)
+    game_engine.run(games.gcd)
 
 
 if __name__ == '__main__':
