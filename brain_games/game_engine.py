@@ -2,10 +2,9 @@ import brain_games.games
 import brain_games.cli
 
 
-def run_game(game_name):
+def run(game_name):
     game_name.greetings()
     user_name = brain_games.cli.run()
-    win_counter = 0
     for i in range(3):
         challenge = game_name.get_challenge()
         game_name.print_question(challenge)
@@ -20,6 +19,5 @@ def run_game(game_name):
             break
         else:
             print('Correct!')
-            win_counter += 1
-    if win_counter == 3:
-        print('Congratulations, {}!'.format(user_name))
+            print('Congratulations, {}!'.format(user_name))
+        
