@@ -20,4 +20,3 @@ def run(game_name):
         else:
             print('Correct!')
             print('Congratulations, {}!'.format(user_name))
-        
