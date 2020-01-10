@@ -18,5 +18,6 @@ def run(game_name):
             )
             break
         else:
-            print('Correct!')        
-    else: print('Congratulations, {}!'.format(user_name))
+            print('Correct!')
+    else:
+        print('Congratulations, {}!'.format(user_name))

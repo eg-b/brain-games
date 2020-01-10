@@ -1,5 +1,4 @@
 import random
-import prompt
 
 
 RULES = 'Answer "yes" if given number is prime. Otherwise answer "no"'
@@ -11,4 +10,4 @@ def get_challenge():
         if not challenge % i:
             solution = 'no'
     solution = 'yes'
-    return challenge, solution 
+    return challenge, solution

@@ -2,8 +2,8 @@ import random
 
 
 RULES = 'Find the greatest common divisor of given numbers.'
-    
-    
+
+
 def get_challenge():
     num1, num2 = random.randint(1, 100), random.randint(1, 100)
     challenge = '{} {}'.format(num1, num2)
@@ -17,4 +17,3 @@ def get_challenge():
         num2 = divisor
         divisor = x
     return challenge, solution
-
