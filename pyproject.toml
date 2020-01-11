@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "eg-b_brain_games"
-version = "1.4.5"
+version = "1.4.6"
 description = "5 brain games!"
 authors = ["eg-b"]
 packages = [
