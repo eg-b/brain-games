@@ -7,7 +7,7 @@
 
 installation
 
-For install use the command:'python3 -m pip install --user -i https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple/ eg-b-brain-games'
+For install use the command: "python3 -m pip install --user -i https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple/ eg-b-brain-games"
 
 [![asciicast](https://asciinema.org/a/NYyXjodMTAEXj72iIZguqG9zM.svg)](https://asciinema.org/a/NYyXjodMTAEXj72iIZguqG9zM)
 
