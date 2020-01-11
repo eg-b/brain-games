@@ -1,8 +1,7 @@
 [tool.poetry]
 name = "eg-b_brain_games"
 version = "1.4.5"
-description = "5 brain games! To install use the command: 'python3 -m pip install --user -i https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple/ eg-b-brain-games
-'"
+description = "5 brain games!"
 authors = ["eg-b"]
 packages = [
     { include = "brain_games" },
