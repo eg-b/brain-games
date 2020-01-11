@@ -6,7 +6,7 @@
 
 installation
 
-[![asciicast](https://asciinema.org/a/yn7YiE3od39O8wGhNZkWZeZow.svg)](https://asciinema.org/a/yn7YiE3od39O8wGhNZkWZeZow)
+[![asciicast](https://asciinema.org/a/NYyXjodMTAEXj72iIZguqG9zM.svg)](https://asciinema.org/a/NYyXjodMTAEXj72iIZguqG9zM)
 
 even-game
 
