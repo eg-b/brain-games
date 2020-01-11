@@ -13,8 +13,7 @@ def get_challenge():
     hidden_number_index = (random.randint(0, 9))
     progression.pop(hidden_number_index)
     progression.insert(hidden_number_index, '..')
-    challenge = str(progression).replace(',', ' ')
-    challenge = challenge[1:-1].replace("'..'", "..")
+    challenge = ' '.join(str(i) for i in progression)
     if progression[0] == '..':
         solution = str(progression[1] - step)
     else:
