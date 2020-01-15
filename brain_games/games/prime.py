@@ -1,5 +1,5 @@
 import random
-
+import math
 
 RULES = 'Answer "yes" if given number is prime. Otherwise answer "no"'
 
@@ -14,8 +14,7 @@ def get_challenge():
 
 
 def is_prime(num):
-    for i in range(2, num):
-        if not num % i:
+    for i in range(int(math.sqrt(num)), 1, -1):s
+        if num % i == 0:
             return False
-        else:
-            return True
+    return True
