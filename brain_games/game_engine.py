@@ -5,7 +5,7 @@ import prompt
 
 def run(game_name):
     print('Welcome to the Brain Games\n{} \n'.format(game_name.RULES))
-    user_name = brain_games.cli.run()
+    user_name = brain_games.cli.welcome_user()
     for i in range(3):
         challenge, solution = game_name.get_challenge()
         print('Question: {}'.format(challenge))
