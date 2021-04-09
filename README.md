@@ -1,5 +1,6 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/1c0b539e21c47aae12cc/maintainability)](https://codeclimate.com/github/eg-b/python-project-lvl1/maintainability)
-[![Build Status](https://travis-ci.org/eg-b/python-project-lvl1.svg?branch=master)](https://travis-ci.org/eg-b/python-project-lvl1)
+[![Build Status](https://travis-ci.com/eg-b/brain-games.svg?branch=master)](https://travis-ci.org/eg-b/brain-games)
+
 
 ### installation
 ```sh
